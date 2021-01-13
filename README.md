@@ -26,7 +26,6 @@
                     <div class="text-center mb-3">
                         <h2>Formulário De Login</h2>
                     </div>
-
                     <div class="form-group">
                         <h5>Email:</h5>
                         <input type="text"  placeholder="informe o seu e-mail" class="form-control">
